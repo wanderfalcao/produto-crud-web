@@ -146,7 +146,7 @@ start target\site\jacoco\index.html
 
 | Métrica | Mínimo exigido | Resultado |
 |---------|----------------|-----------|
-| **INSTRUCTION coverage** | 80% | **≥ 80%** ✅ |
+| **INSTRUCTION coverage** | 90% | **≥ 90%** ✅ |
 
 ### O que está excluído da cobertura
 
